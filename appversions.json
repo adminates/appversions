@@ -2,7 +2,15 @@
     "applications": [
         {
             "name": "com.engineersons.kanpurmetro",
-            "version": "3.0.0"
+            "version": "3.0.1"
+        },
+        {
+            "name": "com.engineersons.lucknowmetro",
+            "version": "3.0.1"
+        },
+        {
+            "name": "com.engineersons.jaipurmetro",
+            "version": "2.0.1"
         }
     ]
 }
