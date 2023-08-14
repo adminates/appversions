@@ -2,7 +2,7 @@
     "applications": [
         {
             "name": "com.engineersons.kanpurmetro",
-            "version": "3.0.1"
+            "version": "3.0.0"
         }
     ]
 }
